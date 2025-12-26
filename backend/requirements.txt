@@ -5,3 +5,10 @@ sqlalchemy>=2.0
 asyncpg
 
 python-dotenv
+
+transformers
+torch
+httpx
+tenacity
+
+
